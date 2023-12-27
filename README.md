@@ -1,1 +1,1 @@
-# Entriproject2
+# Python module end project
